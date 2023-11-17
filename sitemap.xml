@@ -226,7 +226,7 @@
   </url>
   
   <url>
-    <loc>https://naztar0819.github.io/tags/airblue-wind/</loc>
+    <loc>https://naztar0819.github.io/tags/airblue-flower/</loc>
     <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -247,7 +247,7 @@
   </url>
   
   <url>
-    <loc>https://naztar0819.github.io/tags/airblue-flower/</loc>
+    <loc>https://naztar0819.github.io/tags/airblue-wind/</loc>
     <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -289,20 +289,6 @@
   </url>
   
   <url>
-    <loc>https://naztar0819.github.io/tags/haruka-toko/</loc>
-    <lastmod>2023-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://naztar0819.github.io/tags/narou/</loc>
-    <lastmod>2023-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://naztar0819.github.io/tags/fujimi-bunko/</loc>
     <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -318,6 +304,20 @@
   
   <url>
     <loc>https://naztar0819.github.io/tags/matsuryuu/</loc>
+    <lastmod>2023-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://naztar0819.github.io/tags/haruka-toko/</loc>
+    <lastmod>2023-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://naztar0819.github.io/tags/narou/</loc>
     <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -375,13 +375,6 @@
   </url>
   
   <url>
-    <loc>https://naztar0819.github.io/categories/translation/light-novel/hana-hana/</loc>
-    <lastmod>2023-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://naztar0819.github.io/categories/translation/light-novel/angel-next-door/</loc>
     <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -396,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://naztar0819.github.io/categories/translation/light-novel/oshi-oshi/</loc>
+    <loc>https://naztar0819.github.io/categories/translation/light-novel/hana-hana/</loc>
     <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -404,6 +397,13 @@
   
   <url>
     <loc>https://naztar0819.github.io/categories/translation/light-novel/gensoutan/</loc>
+    <lastmod>2023-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://naztar0819.github.io/categories/translation/light-novel/oshi-oshi/</loc>
     <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

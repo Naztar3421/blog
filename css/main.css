@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #d26538;
+  background: #ff52bf;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2572,7 +2572,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .bilibili {
-  background-image: url("/images/bilibili.jpg");
+  background-image: url("https://raw.githubusercontent.com/Naztar0819/blog/main/images/bilibili.jpg");
   background-size: 1em 1em;
   opacity: 1;
   background-position: 0.2rem 0.2rem;
@@ -2582,7 +2582,7 @@ ul.breadcrumb li + li:last-child {
   border-radius: 0rem;
 }
 .twitter {
-  background-image: url("/images/twitter.jpg");
+  background-image: url("https://raw.githubusercontent.com/Naztar0819/blog/main/images/twitter.jpg");
   background-size: 1em 1em;
   opacity: 1;
   background-position: 0.2rem 0.2rem;
@@ -2592,7 +2592,7 @@ ul.breadcrumb li + li:last-child {
   border-radius: 0rem;
 }
 .weibo {
-  background-image: url("/images/weibo.png");
+  background-image: url("https://raw.githubusercontent.com/Naztar0819/blog/main/images/weibo.png");
   background-size: 1em 1em;
   opacity: 1;
   background-position: 0.2rem 0.2rem;
@@ -2602,7 +2602,7 @@ ul.breadcrumb li + li:last-child {
   border-radius: 0rem;
 }
 .lk {
-  background-image: url("/images/lk.jpg");
+  background-image: url("https://raw.githubusercontent.com/Naztar0819/blog/main/images/lk.jpg");
   background-size: 1em 1em;
   opacity: 1;
   background-position: 0.2rem 0.2rem;
@@ -2612,7 +2612,7 @@ ul.breadcrumb li + li:last-child {
   border-radius: 0rem;
 }
 body {
-  background: url("/images/bg.jpg");
+  background: url("https://raw.githubusercontent.com/Naztar0819/blog/main/images/bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

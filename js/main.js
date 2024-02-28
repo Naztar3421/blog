@@ -560,6 +560,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
       newEle.addEventListener('click', clickFn)
     },
+
     darkmode: () => { // switch between light and dark mode
       const willChangeMode = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'
       if (willChangeMode === 'dark') {

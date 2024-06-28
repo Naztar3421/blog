@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.naztar.cc/index/index.html</loc>
+    
+    <lastmod>2024-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.naztar.cc/angel-next-door-8-ss/</loc>
     
     <lastmod>2024-06-28</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://www.naztar.cc/gensoutan-grammarlies-6/</loc>
     
     <lastmod>2024-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.naztar.cc/index/index.html</loc>
-    
-    <lastmod>2024-06-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -235,7 +235,7 @@
   </url>
   
   <url>
-    <loc>https://www.naztar.cc/tags/airblue-moon/</loc>
+    <loc>https://www.naztar.cc/tags/airblue-wind/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -243,6 +243,13 @@
   
   <url>
     <loc>https://www.naztar.cc/tags/airblue-flower/</loc>
+    <lastmod>2024-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naztar.cc/tags/airblue-moon/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -270,13 +277,6 @@
   </url>
   
   <url>
-    <loc>https://www.naztar.cc/tags/airblue-wind/</loc>
-    <lastmod>2024-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.naztar.cc/tags/dengeki-bunko/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -285,13 +285,6 @@
   
   <url>
     <loc>https://www.naztar.cc/tags/iwata-hiroki/</loc>
-    <lastmod>2024-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.naztar.cc/tags/web-novel/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -313,6 +306,13 @@
   
   <url>
     <loc>https://www.naztar.cc/tags/matsuryuu/</loc>
+    <lastmod>2024-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naztar.cc/tags/web-novel/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -398,14 +398,14 @@
   </url>
   
   <url>
-    <loc>https://www.naztar.cc/categories/translation/light-novel/hana-hana/</loc>
+    <loc>https://www.naztar.cc/categories/translation/light-novel/geneki-jk-idol/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.naztar.cc/categories/translation/light-novel/geneki-jk-idol/</loc>
+    <loc>https://www.naztar.cc/categories/translation/light-novel/hana-hana/</loc>
     <lastmod>2024-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
